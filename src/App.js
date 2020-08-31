@@ -184,7 +184,7 @@ class App extends Component {
               <button onClick={() => {
                 window.location = window.location.href.includes('localhost')
                   ? 'http://localhost:8888/login'
-                  : 'https://bps-vc-backend.herokuapp.com/login' }
+                  : 'https://bps-backend.herokuapp.com/login' }
               }
               style={{
                 'font-size': '50px',
