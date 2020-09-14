@@ -2,7 +2,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## App
 
-App available on https://vlads-better-playlists.herokuapp.com/
+App available on https://bps-vc.herokuapp.com/
 
 ## Available Scripts
 
